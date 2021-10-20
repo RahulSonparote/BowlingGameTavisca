@@ -1,0 +1,6 @@
+C:\Users\sonpa\source\repos\BowlingGameTavisca\BowlingGame.Business\bin\Debug\BowlingGame.Business.dll
+C:\Users\sonpa\source\repos\BowlingGameTavisca\BowlingGame.Business\bin\Debug\BowlingGame.Business.pdb
+C:\Users\sonpa\source\repos\BowlingGameTavisca\BowlingGame.Business\obj\Debug\BowlingGame.Business.csproj.AssemblyReference.cache
+C:\Users\sonpa\source\repos\BowlingGameTavisca\BowlingGame.Business\obj\Debug\BowlingGame.Business.csproj.CoreCompileInputs.cache
+C:\Users\sonpa\source\repos\BowlingGameTavisca\BowlingGame.Business\obj\Debug\BowlingGame.Business.dll
+C:\Users\sonpa\source\repos\BowlingGameTavisca\BowlingGame.Business\obj\Debug\BowlingGame.Business.pdb
