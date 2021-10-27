@@ -41,6 +41,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BowlingScoreCalculator.cs" />
+    <Compile Include="Factory\BonusCalculationStrategyFactory.cs" />
+    <Compile Include="Factory\IBonusCalculationStrategy.cs" />
+    <Compile Include="Factory\NoBonusCalculationStrategy.cs" />
+    <Compile Include="Factory\SpareBonusCalculationStrategy.cs" />
+    <Compile Include="Factory\StrikeBonusCalculationStrategy.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="IGame.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
